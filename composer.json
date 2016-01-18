@@ -1,0 +1,15 @@
+{
+
+  "name": "beezus/usps-api",
+
+  "homepage": "https://github.com/beezus/usps-api",
+
+  "type": "library",
+
+  "autoload": {
+    "psr-0": {
+      "USPS": "lib"
+    }
+  }
+
+}
